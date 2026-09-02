@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE-LINK-HERE" alt="Ajit Kumar Biswas Banner" width="100%">
+  <img src=ChatGPT Image Sep 2, 2026, 10_59_56 AM.png width="100%">
 </p>
 
 <div align="center">
