@@ -1,5 +1,6 @@
+```markdown
 <p align="center">
-  <img src=ChatGPT Image Sep 2, 2026, 10_59_56 AM.png width="10%">
+  <img src="./profile.png" alt="Ajit Kumar Biswas" width="150">
 </p>
 
 <div align="center">
@@ -31,3 +32,4 @@ I'm an aspiring software engineer and web developer who enjoys turning ideas int
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
 </p>
+```
