@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT Image Sep 2, 2026, 10_59_56 AM.png" alt="Ajit Kumar Biswas Banner" height="150" width="100%">
+  <img src="ChatGPT Image Sep 2, 2026, 10_59_56 AM.png" alt="Ajit Kumar Biswas Banner" height="180" width="100%">
 </p>
 
 <div align="center">
