@@ -1,6 +1,5 @@
-```markdown
 <p align="center">
-  <img src="./profile.png" alt="Ajit Kumar Biswas" width="150">
+  <img src="YOUR-BANNER-IMAGE-LINK-HERE" alt="Ajit Kumar Biswas Banner" width="100%">
 </p>
 
 <div align="center">
@@ -32,4 +31,3 @@ I'm an aspiring software engineer and web developer who enjoys turning ideas int
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
 </p>
-```
