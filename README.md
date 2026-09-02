@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL" alt="Ajit Kumar Biswas Banner" width="100%">
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Ajit Kumar Biswas
