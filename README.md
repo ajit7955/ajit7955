@@ -113,7 +113,6 @@ html
 
 ---
 
-html
 ## 🏆 GitHub Achievements
 
 <p align="center">
