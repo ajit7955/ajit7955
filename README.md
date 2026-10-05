@@ -100,11 +100,12 @@ I enjoy learning by building projects and solving practical problems with code.
 </p>
 
 ---
-# 📈 Contribution Activity
+html
+## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="Screenshot 2026-10-05 182524.png username=ajit7955&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  <img
+    src="https://github.com/ajit7955/ajit7955/blob/main/Screenshot%202026-10-05%20182524.png?raw=true"
     alt="Ajit Kumar Biswas GitHub Contribution Activity"
     width="100%"
   />
@@ -112,15 +113,18 @@ I enjoy learning by building projects and solving practical problems with code.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ajit7955&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4"
-    alt="Ajit Kumar Biswas GitHub Trophies"
+    src="https://camo.githubusercontent.com/9fab6d45e7a234a9bc71c23a29b691b08aaf274beb94f19f5f54a397cd25d3dc/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616a697437393535267468656d653d6461726b687562266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d313026636f6c756d6e3d34"
+    alt="Ajit Kumar Biswas GitHub Achievements"
     width="100%"
   />
 </p>
+
+---
+
 
 
 
