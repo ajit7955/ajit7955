@@ -113,20 +113,16 @@ html
 
 ---
 
+html
 ## 🏆 GitHub Achievements
 
 <p align="center">
   <img
-    src="https://camo.githubusercontent.com/9fab6d45e7a234a9bc71c23a29b691b08aaf274beb94f19f5f54a397cd25d3dc/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616a697437393535267468656d653d6461726b687562266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d313026636f6c756d6e3d34"
+    src="https://raw.githubusercontent.com/ajit7955/ajit7955/main/Screenshot%202026-10-05%20182619.png"
     alt="Ajit Kumar Biswas GitHub Achievements"
     width="100%"
   />
 </p>
-
----
-
-
-
 
 ---
 
