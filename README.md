@@ -5,8 +5,12 @@
 </p>
 
 <h3 align="center">
-  🚀 Aspiring Software Engineer | Full-Stack Web Developer
+  🚀 Full-Stack Web Developer | Aspiring Software Engineer
 </h3>
+
+<p align="center">
+  I build modern, responsive and practical web applications while continuously improving my software engineering skills.
+</p>
 
 <p align="center">
   <a href="mailto:adibiswas955@gmail.com">
@@ -15,62 +19,60 @@
   <a href="https://github.com/ajit7955">
     <img src="https://img.shields.io/badge/GitHub-ajit7955-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Ajit Kumar Biswas**, an aspiring software engineer and full-stack web developer who enjoys building modern, responsive, and real-world web applications.
+I'm **Ajit Kumar Biswas**, a Full-Stack Web Developer and aspiring Software Engineer who enjoys building responsive, user-friendly and real-world web applications.
 
-I am continuously improving my skills in frontend development, backend development, databases, APIs, software engineering, and modern web technologies.
+I started with frontend development and gradually moved toward full-stack development, working with modern JavaScript technologies, backend APIs and databases.
 
-I enjoy learning by building projects and solving practical problems with code.
+I learn best by building projects, solving practical problems and continuously improving my development workflow.
 
----
+### 🚀 Currently Working On
 
-## 🚀 Currently Working On
-
-* 🔭 Exploring **Next.js**
-* 🌱 Learning **TypeScript**
-* ⚛️ Building applications with **React.js**
+* 🔭 Exploring **Next.js** and modern React development
+* 🌱 Improving my **JavaScript and TypeScript** skills
+* ⚛️ Building projects with **React.js**
 * 💻 Developing full-stack applications with **Node.js & Express.js**
-* 🗄️ Working with **databases and REST APIs**
+* 🗄️ Working with **MongoDB, REST APIs and data persistence**
 * 🤖 Exploring **AI-powered web applications**
-* 🚀 Improving my **software engineering and problem-solving skills**
+* 🧠 Improving **problem-solving and software engineering skills**
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Frontend
+### 💻 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+</p>
+
+### 🐍 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -100,8 +102,8 @@ I enjoy learning by building projects and solving practical problems with code.
 </p>
 
 ---
-html
-## 📈 Contribution Activity
+
+# 📈 Contribution Activity
 
 <p align="center">
   <img
@@ -113,7 +115,7 @@ html
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img
@@ -124,133 +126,86 @@ html
 </p>
 
 ---
-markdown
+
 # 🚀 Featured Projects
 
-## 📌 Project 1 — Dev Stack Builder
+## 📌 Dev Stack Builder
 
-A modern and responsive React-based web application that helps developers explore popular development technologies and build their own personalized technology stack.
+A modern and responsive React application that helps developers explore popular development technologies and create a personalized technology stack.
 
-### ✨ Features
+### ✨ Key Features
 
-- 🔎 Explore popular development technologies
-- 🗂️ Technologies organized by category
-- ⭐ Technology rating and difficulty information
-- 🧱 Build a personalized technology stack
-- ➕ Add technologies to personal stack
-- ❌ Remove selected technologies
-- 🚫 Prevent duplicate technologies
-- 📱 Fully responsive design
-- ⚡ Fast Vite-powered React application
-- 🔔 Toast notifications for user actions
+* 🔎 Explore development technologies
+* 🗂️ Browse technologies by category
+* ⭐ View technology information
+* 🧱 Build a personalized technology stack
+* ➕ Add technologies to your stack
+* ❌ Remove selected technologies
+* 🚫 Prevent duplicate technologies
+* 📱 Fully responsive interface
+* 🔔 Toast notifications
+* ⚡ Fast Vite-powered React application
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,html,css" alt="React JavaScript Vite Tailwind HTML CSS" />
+  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,html,css" />
 </p>
 
-### 🔗 Links
+### 🔗 Project Links
 
-- 💻 **Repository:** [Dev Stack Builder](https://github.com/ajit7955/supreme-octo-palm-tree)
-- 🌐 **Live Demo:** https://dev-stack-builder-cytlthse4-adibiswas955-7069.vercel.app
+* 💻 [Repository](https://github.com/ajit7955/supreme-octo-palm-tree)
+* 🌐 [Live Demo](https://dev-stack-builder-cytlthse4-adibiswas955-7069.vercel.app)
 
 ---
 
-## 📌 Project 2 — FitLog — Workout Library
+## 📌 FitLog — Workout Library
 
-A responsive workout library and daily workout planning web application built with Next.js. Users can browse workouts, search and sort exercises, view detailed workout information, create a daily workout plan, save workouts, and track completed workouts.
+A responsive workout library and daily workout planning application built with Next.js. Users can discover workouts, search and sort exercises, view workout details, create daily plans, save workouts and track completed exercises.
 
-### ✨ Features
+### ✨ Key Features
 
-- 🏋️ Browse workout library
-- 🔎 Search workouts by name or muscle group
-- ↕️ Sort workouts by duration, calories, or rating
-- 📋 View complete workout details
-- ➕ Add workouts to today's plan
-- 💾 Save workouts for later
-- ✅ Mark planned workouts as completed
-- ❌ Remove workouts from the daily plan or saved list
-- 📊 Workout metrics for exercises, minutes, and calories
-- 🔔 Toast notifications
-- ⏳ Loading states
-- 📱 Responsive mobile, tablet, and desktop design
-- 🌐 REST API integration
-- 💾 LocalStorage data persistence
-- 🚫 Custom 404 page
+* 🏋️ Browse workout library
+* 🔎 Search workouts by name or muscle group
+* ↕️ Sort workouts by duration, calories and rating
+* 📋 View detailed workout information
+* ➕ Add workouts to today's plan
+* 💾 Save workouts for later
+* ✅ Mark planned workouts as completed
+* ❌ Remove saved or planned workouts
+* 📊 Display workout metrics
+* 🔔 Toast notifications
+* ⏳ Loading states
+* 📱 Responsive design
+* 🌐 REST API integration
+* 💾 LocalStorage persistence
+* 🚫 Custom 404 page
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind" alt="Next.js React JavaScript Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind" />
 </p>
 
-**Additional Tools:** Lucide React, React Hot Toast, REST API, LocalStorage
+**Additional Technologies:** Lucide React · React Hot Toast · REST API · LocalStorage
 
-### 🔗 Links
+### 🔗 Project Links
 
-- 💻 **Repository:** [FitLog — Workout Library](https://github.com/ajit7955/b14-a6-fit-log)
-- 🌐 **Live Demo:** https://b14-a6-fit-log-eight.vercel.app
-
-
-
----
-
-# 📚 Learning Journey
-
-```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
-TypeScript
-     ↓
-React.js
-     ↓
-Next.js
-     ↓
-Node.js
-     ↓
-Express.js
-     ↓
-MongoDB
-     ↓
-REST APIs
-     ↓
-Full-Stack Development
-     ↓
-Software Engineering
-     ↓
-AI Integration
-```
+* 💻 [Repository](https://github.com/ajit7955/b14-a6-fit-log)
+* 🌐 [Live Demo](https://b14-a6-fit-log-eight.vercel.app)
 
 ---
 
 # 🎯 Career Goals
 
-* 💻 Become a highly skilled **Software Engineer**
+* 💻 Become a skilled **Software Engineer**
 * 🌐 Build production-ready **full-stack applications**
-* 🧠 Improve **problem-solving and system design**
+* 🧠 Strengthen **problem-solving and system design**
 * ⚙️ Learn scalable backend architecture
-* ☁️ Learn cloud computing and deployment
-* 🔐 Understand application and system security
+* ☁️ Explore cloud computing and deployment
+* 🔐 Develop a strong understanding of application security
 * 🤖 Build useful AI-powered applications
 * 🚀 Contribute to real-world software projects
-
----
-
-# 💡 What I Like Building
-
-* 🌐 Full-Stack Web Applications
-* 🛒 E-commerce Platforms
-* 📊 Admin Dashboards
-* 🏋️ Fitness Applications
-* 🧳 Tourism & Travel Platforms
-* 🔐 Authentication Systems
-* 💳 Payment-based Applications
-* 🤖 AI-powered Applications
-* 📱 Responsive Web Applications
-* ⚙️ REST APIs
 
 ---
 
@@ -266,14 +221,6 @@ AI Integration
 <img src="https://img.shields.io/badge/Gmail-adibiswas955-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Ajit%20Kumar%20Biswas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
 </p>
 
 ---
@@ -286,26 +233,18 @@ AI Integration
 
 💻 **GitHub:** [github.com/ajit7955](https://github.com/ajit7955)
 
-🔗 **LinkedIn:** `YOUR_LINKEDIN_URL`
-
-🌐 **Portfolio:** `YOUR_PORTFOLIO_URL`
-
----
-
-# 💭 Developer Quote
-
-> "First, solve the problem. Then, write the code."
-
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ajit7955&label=Profile%20Views&color=blue&style=flat" />
-
+  <img src="https://komarev.com/ghpvc/?username=ajit7955&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  Feel free to explore my repositories and connect with me.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
