@@ -124,61 +124,75 @@ html
 </p>
 
 ---
-
+markdown
 # 🚀 Featured Projects
 
-## 📌 Project 1 — Full-Stack Web Application
+## 📌 Project 1 — Dev Stack Builder
 
-A modern full-stack web application designed to solve a real-world problem with a responsive user interface, backend API, database integration, and authentication.
+A modern and responsive React-based web application that helps developers explore popular development technologies and build their own personalized technology stack.
 
 ### ✨ Features
 
-* 🔐 User authentication
-* 👤 User management
-* 📊 Dashboard
-* 🔄 CRUD operations
-* 🔎 Search and filtering
-* 📱 Fully responsive design
-* 🌐 REST API integration
-* 🗄️ Database integration
+- 🔎 Explore popular development technologies
+- 🗂️ Technologies organized by category
+- ⭐ Technology rating and difficulty information
+- 🧱 Build a personalized technology stack
+- ➕ Add technologies to personal stack
+- ❌ Remove selected technologies
+- 🚫 Prevent duplicate technologies
+- 📱 Fully responsive design
+- ⚡ Fast Vite-powered React application
+- 🔔 Toast notifications for user actions
 
 ### 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,vite,tailwind,html,css" alt="React JavaScript Vite Tailwind HTML CSS" />
 </p>
 
 ### 🔗 Links
 
-* 🌐 **Live Demo:** `YOUR_PROJECT_1_LIVE_LINK`
-* 💻 **Repository:** `YOUR_PROJECT_1_GITHUB_LINK`
+- 💻 **Repository:** [Dev Stack Builder](https://github.com/ajit7955/supreme-octo-palm-tree)
+- 🌐 **Live Demo:** Coming soon
 
 ---
 
-## 📌 Project 2 — Real-World Web Application
+## 📌 Project 2 — FitLog — Workout Library
 
-A responsive and user-friendly web application built with modern web technologies and designed around a practical real-world use case.
+A responsive workout library and daily workout planning web application built with Next.js. Users can browse workouts, search and sort exercises, view detailed workout information, create a daily workout plan, save workouts, and track completed workouts.
 
 ### ✨ Features
 
-* 📱 Responsive design
-* 🔎 Search functionality
-* 🗂️ Category and filtering system
-* ⚡ Fast and modern UI
-* 🌐 API integration
-* 📊 Dynamic data
-* 🎨 Modern interface
+- 🏋️ Browse workout library
+- 🔎 Search workouts by name or muscle group
+- ↕️ Sort workouts by duration, calories, or rating
+- 📋 View complete workout details
+- ➕ Add workouts to today's plan
+- 💾 Save workouts for later
+- ✅ Mark planned workouts as completed
+- ❌ Remove workouts from the daily plan or saved list
+- 📊 Workout metrics for exercises, minutes, and calories
+- 🔔 Toast notifications
+- ⏳ Loading states
+- 📱 Responsive mobile, tablet, and desktop design
+- 🌐 REST API integration
+- 💾 LocalStorage data persistence
+- 🚫 Custom 404 page
 
 ### 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind" alt="Next.js React JavaScript Tailwind CSS" />
 </p>
+
+**Additional Tools:** Lucide React, React Hot Toast, REST API, LocalStorage
 
 ### 🔗 Links
 
-* 🌐 **Live Demo:** `YOUR_PROJECT_2_LIVE_LINK`
-* 💻 **Repository:** `YOUR_PROJECT_2_GITHUB_LINK`
+- 💻 **Repository:** [FitLog — Workout Library](https://github.com/ajit7955/b14-a6-fit-log)
+- 🌐 **Live Demo:** Coming soon
+
+
 
 ---
 
