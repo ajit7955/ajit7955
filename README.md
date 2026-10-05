@@ -100,13 +100,13 @@ I enjoy learning by building projects and solving practical problems with code.
 </p>
 
 ---
-
 # 📈 Contribution Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ajit7955&theme=tokyo-night&hide_border=true"
     width="100%"
+    alt="Ajit Kumar Biswas GitHub Contribution Activity"
   />
 </p>
 
@@ -118,8 +118,10 @@ I enjoy learning by building projects and solving practical problems with code.
   <img
     src="https://github-profile-trophy.vercel.app/?username=ajit7955&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
     width="90%"
+    alt="Ajit Kumar Biswas GitHub Trophies"
   />
 </p>
+
 
 ---
 
