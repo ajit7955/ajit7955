@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./profile-picture.png"
+    alt="Ajit Kumar Biswas"
+    width="180"
+  />
+</p>
 # 👋 Hi, I'm Ajit Kumar Biswas
 
 <p align="center">
