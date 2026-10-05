@@ -1,14 +1,11 @@
+
+# 👋 Hi, I'm Ajit Kumar Biswas
 <p align="center">
   <img
-    src="./profile-picture.png"
+    src="ChatGPT Image Oct 5, 2026, 08_41_37 PM.png"
     alt="Ajit Kumar Biswas"
     width="180"
   />
-</p>
-# 👋 Hi, I'm Ajit Kumar Biswas
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Ajit%20Kumar%20Biswas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <h3 align="center">
