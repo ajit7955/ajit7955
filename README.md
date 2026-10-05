@@ -153,7 +153,7 @@ A modern and responsive React-based web application that helps developers explor
 ### 🔗 Links
 
 - 💻 **Repository:** [Dev Stack Builder](https://github.com/ajit7955/supreme-octo-palm-tree)
-- 🌐 **Live Demo:** Coming soon
+- 🌐 **Live Demo:** https://dev-stack-builder-cytlthse4-adibiswas955-7069.vercel.app
 
 ---
 
@@ -190,7 +190,7 @@ A responsive workout library and daily workout planning web application built wi
 ### 🔗 Links
 
 - 💻 **Repository:** [FitLog — Workout Library](https://github.com/ajit7955/b14-a6-fit-log)
-- 🌐 **Live Demo:** Coming soon
+- 🌐 **Live Demo:** https://b14-a6-fit-log-eight.vercel.app
 
 
 
